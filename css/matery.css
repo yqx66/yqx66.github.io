@@ -240,13 +240,13 @@ mark {
     margin-bottom: 0;
 }
 
-/*.bg-color {
+.bg-color {
    
 
-    background-image: linear-gradient(to right, #4cbf30 0%, #0f9d58 100%);
-      background:#bdbdbd;
+   background-image: linear-gradient(to right, #35dae6 0%, #0f9d58 90%);/*蓝黄渐变*/
+     /* background:#bdbdbd;*/
 }
-*/
+
 .text-color {
     color: #0f9d58 !important;
 }
